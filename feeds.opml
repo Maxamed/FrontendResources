@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0"> 
+	<body>
+		<outline text="General" title="General" icon="http://www.netvibes.com/img/icons/zoom.gif">
+			<outline xmlUrl="http://blogs.msdn.com/b/ie/rss.aspx" htmlUrl="http://blogs.msdn.com/b/ie/" text="IEBlog" title="IEBlog" description="Windows Internet Explorer Engineering Team Blog" />
+			<outline xmlUrl="http://blog.chromium.org/feeds/posts/default?alt=rss" htmlUrl="http://blog.chromium.org/" text="Chromium Blog" title="Chromium Blog" description="" />
+			<outline xmlUrl="http://my.opera.com/ODIN/xml/rss/blog/" htmlUrl="http://my.opera.com/ODIN/" text="Developer Relations team blog" title="Developer Relations team blog" description="" />
+			<outline xmlUrl="http://feeds.feedburner.com/nettuts" htmlUrl="http://net.tutsplus.com" text="Nettuts+" title="Nettuts+" description="Web Development &amp; Design Tutorials" />
+			<outline xmlUrl="http://blog.whatwg.org/feed" htmlUrl="http://blog.whatwg.org" text="The WHATWG Blog" title="The WHATWG Blog" description="" />
+			<outline xmlUrl="http://feeds.feedburner.com/dailyjs" htmlUrl="http://dailyjs.com" text="DailyJS" title="DailyJS" description="" />
+			<outline xmlUrl="http://peter.sh/feed/" htmlUrl="http://peter.sh" text="Peter Beverloo" title="Peter Beverloo" description="Weblog and personal site of Peter Beverloo, a Dutch 21-year old web developer" />
+			<outline xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com" text="Smashing Magazine Feed" title="Smashing Magazine Feed" description="" />
+			<outline xmlUrl="http://feeds.feedburner.com/badassjs" htmlUrl="http://badassjs.com/" text="Badass JavaScript" title="Badass JavaScript" description="A showcase of awesome JavaScript code that pushes the boundaries of what’s possible on the web." />
+			<outline xmlUrl="http://feeds.feedburner.com/SixRevisions" htmlUrl="http://sixrevisions.com" text="Six Revisions" title="Six Revisions" description="" />
+			<outline xmlUrl="http://feeds.feedburner.com/PerfectionKills" htmlUrl="http://perfectionkills.com" text="Perfection kills" title="Perfection kills" description="Exploring Javascript by example" />
+			<outline xmlUrl="http://javascriptweblog.wordpress.com/feed/" htmlUrl="http://javascriptweblog.wordpress.com" text="JavaScript, JavaScript..." title="JavaScript, JavaScript..." description="by Angus Croll" />
+			<outline xmlUrl="http://reddit.com/.rss" htmlUrl="http://www.reddit.com/" text="reddit: the front page of the internet" title="reddit: the front page of the internet" description="" />
+			<outline xmlUrl="http://news.ycombinator.com/rss" htmlUrl="http://news.ycombinator.com/" text="Hacker News" title="Hacker News" description="Links for the intellectually curious, ranked by readers." />
+			<outline xmlUrl="http://hacks.mozilla.org/feed/" htmlUrl="http://hacks.mozilla.org" text="Mozilla Hacks - the Web developer blog" title="Mozilla Hacks - the Web developer blog" description="hacks.mozilla.org" />
+			<outline xmlUrl="http://feeds.feedburner.com/blogspot/MKuf" htmlUrl="http://googleblog.blogspot.com/" text="The Official Google Blog" title="The Official Google Blog" description="" />
+		</outline>
+		<outline text="frontend-webapps" title="frontend-webapps" icon="">
+			<outline xmlUrl="http://feeds.feedburner.com/smuscom" htmlUrl="http://smus.com" text="Boris Smus" title="Boris Smus" description="" />
+			<outline xmlUrl="http://rmurphey.com/atom.xml" htmlUrl="http://rmurphey.com/" text="Adventures in JavaScript Development" title="Adventures in JavaScript Development" description="" />
+			<outline xmlUrl="http://tbranyen.com/rss.xml" htmlUrl="http://tbranyen.com" text="Tim Branyen @tbranyen" title="Tim Branyen @tbranyen" description="JavaScript and web technology updates." />
+			<outline xmlUrl="http://addyosmani.com/blog/feed/" htmlUrl="http://addyosmani.com/blog" text="AddyOsmani.com | Articles for developers" title="AddyOsmani.com | Articles for developers" description="This is the home of Addy Osmani (JavaScript &amp; UI Developer, Designer &amp; Author). Here you can find some great tips and tutorials on everything to do with web development and even a few useful code samples!" />
+			<outline xmlUrl="http://feeds2.feedburner.com/awf-allposts" htmlUrl="http://awardwinningfjords.com/" text="Award Winning Fjords" title="Award Winning Fjords" description="" />
+			<outline xmlUrl="http://feeds.feedburner.com/derickbailey" htmlUrl="http://lostechies.com/derickbailey" text="ThoughtStream.new :derick_bailey" title="ThoughtStream.new :derick_bailey" description="Better Than Yesterday" />
+			<outline xmlUrl="http://tomdale.net/feed/" htmlUrl="http://tomdale.net" text="Tom Dale" title="Tom Dale" description="Make decisions so your users don't have to." />
+			<outline xmlUrl="http://backbonetutorials.com/atom.xml" htmlUrl="http://backbonetutorials.com/" text="Backbone Tutorials" title="Backbone Tutorials" description="" />
+			<outline xmlUrl="http://functionsource.com/feeds/entries" htmlUrl="http://functionsource.com" text="FunctionSource Posts" title="FunctionSource Posts" description="Your Source for Developer News" />
+			<outline xmlUrl="http://www.blogger.com/feeds/19002723/posts/default" htmlUrl="http://tagneto.blogspot.com/" text="Tagneto" title="Tagneto" description="" />
+			<outline xmlUrl="http://www.sitepen.com/blog/feed/" htmlUrl="http://www.sitepen.com/blog" text="SitePen Blog" title="SitePen Blog" description="SitePen Services and notes about Dojo, Persevere, CometD, JavaScript, and the Web" />
+		</outline> 
+	</body>
+</opml>
